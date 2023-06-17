@@ -1,0 +1,43 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+.upper{
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10rem;
+  /* margin-top:6rem ; */
+  align-items: center;
+  justify-content: center;
+  background-image:url(casey-horner-75_s8iWHKLs-unsplash.jpg);
+  background-size: cover;
+  background-position: -50%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+  
+}
+.upper div{
+
+  display: block;
+  margin: 2rem;
+  padding: 2rem;
+  font-weight: 600;
+
+
+}
+.upper a{
+  color: white;
+  font-weight: 600;
+  color: none;
+  /* text-underline-offset: none; */
+}
